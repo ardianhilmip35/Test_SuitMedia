@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">test_suitmedia</string>
+    <string name="ic_photo">ic_photo</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">Next</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="back">back</string>
+    <string name="name">John Doe</string>
+    <string name="choose_user">Choose a User</string>
+    <string name="name_is_required">Name is required</string>
+    <string name="palindrome_is_required">Input Text First</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="username">Firstname Lastname</string>
+    <string name="email">EMAIL@EMAIL.COM</string>
+    <string name="retry">Retry</string>
+</resources>
